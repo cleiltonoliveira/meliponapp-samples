@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "code": "1",
+    "species": "Uruçu",
+    "origin": "Captura",
+    "lastUpdate": "2023-08-12 11:30:40",
+    "thumbnailUrl": "https://www.epagri.sc.gov.br/wp-content/uploads/2020/09/abelhas-sem-ferrao-4.jpg"
+  },
+  {
+    "code": "2",
+    "id": 2,
+    "species": "Manduri",
+    "origin": "Divisão",
+    "lastUpdate": "2023-08-14 11:30:40",
+    "thumbnailUrl": "https://img.olx.com.br/images/90/906329060587068.jpg"
+  },
+  {
+    "code": "3",
+    "id": 3,
+    "species": "Marmelada",
+    "origin": "Doação",
+    "lastUpdate": "2023-08-11 11:30:40",
+    "thumbnailUrl": "https://i.ytimg.com/vi/xVthLFlKhjY/maxresdefault.jpg"
+  },
+  {
+    "code": "4",
+    "id": 4,
+    "species": "Jataí",
+    "origin": "Captura",
+    "lastUpdate": "2023-08-18 11:30:40",
+    "thumbnailUrl": "https://3.bp.blogspot.com/-tz6915G3s1U/UWNMUz03miI/AAAAAAAAAHQ/A-t497jFwVE/s1600/enxame-de-abelha-jatai-matriz_MLB-F-4105583545_042013.jpg"
+  },
+  {
+    "code": "5",
+    "id": 5,
+    "species": "Mandaguari",
+    "origin": "Captura",
+    "lastUpdate": "2023-08-25 11:30:40",
+    "thumbnailUrl": "https://i.ytimg.com/vi/1SDD02DL1qA/hqdefault.jpg"
+  }
+]
