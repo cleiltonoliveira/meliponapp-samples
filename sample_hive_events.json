@@ -1,0 +1,44 @@
+[
+  {
+  "id": 1,
+  "eventType": "CREATION",
+  "date": "2023-08-14 11:30:40",
+  "notes": "Colmeia criada"
+  },
+   {
+  "id": 2,
+  "eventType": "REVISAO",
+  "date": "2023-08-14 11:30:40",
+  "notes": "Primeira revisão da colmeia"
+  },
+   {
+  "id": 3,
+  "eventType": "DIVISAO",
+  "date": "2023-08-14 11:30:40",
+  "notes": "Colmeia dividida"
+  },
+   {
+  "id": 4,
+  "eventType": "ALIMENTACAO",
+  "date": "2023-08-14 11:30:40",
+  "notes": "Alimentação interna com xarope"
+  },
+   {
+  "id": 5,
+  "eventType": "MODULO_ADICIONADO",
+  "date": "2023-08-14 11:30:40",
+  "notes": "Módulo 15x15x7"
+  },
+   {
+  "id": 6,
+  "eventType": "COLHEITA_MEL",
+  "date": "2023-08-14 11:30:40",
+  "notes": ""
+  },
+  {
+  "id": 7,
+  "eventType": "COLHEITA_PROPOLIS",
+  "date": "2023-08-14 11:30:40",
+  "notes": "Retirado 200g"
+  },
+]
