@@ -38,5 +38,21 @@
     "origin": "Captura",
     "lastUpdate": "2023-08-25 11:30:40",
     "thumbnailUrl": "https://i.ytimg.com/vi/1SDD02DL1qA/hqdefault.jpg"
+  },
+   {
+    "code": "6",
+    "id": 6,
+    "species": "Jataí",
+    "origin": "Captura",
+    "lastUpdate": "2023-08-18 11:30:40",
+    "thumbnailUrl": "https://3.bp.blogspot.com/-tz6915G3s1U/UWNMUz03miI/AAAAAAAAAHQ/A-t497jFwVE/s1600/enxame-de-abelha-jatai-matriz_MLB-F-4105583545_042013.jpg"
+  },
+  {
+    "code": "7",
+    "id": 7,
+    "species": "Mandaguari",
+    "origin": "Captura",
+    "lastUpdate": "2023-08-25 11:30:40",
+    "thumbnailUrl": "https://i.ytimg.com/vi/1SDD02DL1qA/hqdefault.jpg"
   }
 ]
