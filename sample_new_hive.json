@@ -1,0 +1,27 @@
+{
+  "id": 1,
+  "code": "10",
+  "species": "Uruçu",
+  "origin": "Captura",
+  "lastUpdate": "2023-08-12 11:30:40",
+  "acquisitionDate":  "2023-08-12",
+  "creationDate": "2023-08-12T12:21:21.22Z"
+  "thumbnailUrl": "https://www.epagri.sc.gov.br/wp-content/uploads/2020/09/abelhas-sem-ferrao-4.jpg",
+  "notes": "Colmeia matriz forte",
+  "boxType": "NORDESTINA",
+  "imageUrls": [
+    "https://www.epagri.sc.gov.br/wp-content/uploads/2020/09/abelhas-sem-ferrao-4.jpg",
+    "https://img.olx.com.br/images/90/906329060587068.jpg",
+    "https://i.ytimg.com/vi/xVthLFlKhjY/maxresdefault.jpg",
+    "https://3.bp.blogspot.com/-tz6915G3s1U/UWNMUz03miI/AAAAAAAAAHQ/A-t497jFwVE/s1600/enxame-de-abelha-jatai-matriz_MLB-F-4105583545_042013.jpg",
+    "https://i.ytimg.com/vi/1SDD02DL1qA/hqdefault.jpg"
+  ],
+  "hiveEvents": [
+    {
+      "id": 1,
+      "eventType": "CREATION",
+      "date": "2023-08-12T12:21:21.22Z",
+      "notes": "Colmeia criada"
+    }
+  ]
+}
